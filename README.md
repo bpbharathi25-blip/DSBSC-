@@ -48,8 +48,10 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
+<img width="647" height="733" alt="image" src="https://github.com/user-attachments/assets/46adbfe7-e893-48aa-8ff5-400b7e205991" />
 
 Output Graph
+<img width="1573" height="973" alt="image" src="https://github.com/user-attachments/assets/1030c11d-92ef-4f26-9635-047bfbb8cf5f" />
 
 
 Tablular Column
